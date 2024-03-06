@@ -31,3 +31,7 @@
 .ifdef EATER
 .include "bios.s"
 .endif
+
+.ifdef VARKENVARKEN
+.include "bios_varkenvarken.s"
+.endif

@@ -29,4 +29,7 @@
 .ifdef EATER
 .include "eater_iscntc.s"
 .endif
+.ifdef VARKENVARKEN
+.include "varkenvarken_iscntc.s"
+.endif
 ;!!! runs into "STOP"

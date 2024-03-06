@@ -14,3 +14,6 @@
 .ifdef EATER
         jmp COLD_START
 .endif
+.ifdef VARKENVARKEN
+        jmp COLD_START
+.endif
